@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <AutoSplitter>
+        <Games>
+            <Game>I'm going to die if I don't eat sushi!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/2RU10SHI6/sushi_autosplitter/main/Sushi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter & Loadremover for sushi lovers (By 2RU10SHI6 & suika_lunch)</Description>
+        <Website>https://www.speedrun.com/im_going_to_die_if_i_dont_eat_sushi</Website>
+    </AutoSplitter>
 <AutoSplitters>
         <AutoSplitter>
         <Games>
